@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "enabled": false,
-  "release_id": "9473-aa801d673ccf41d82bf6068e45c1bfbc33677d43054163da05ffabbc382189fe",
+  "release_id": "9474-82938d59b5b5b6299753c2f7e02fc2b3f7f5445b9ff3ecae9cb88ea2a6b243e8",
   "package_name": "apphosts.ibo.dawwgsportz",
-  "latest_version_code": 9473,
-  "latest_version_name": "129",
-  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9473/STIPTV-4K.apk",
+  "latest_version_code": 9474,
+  "latest_version_name": "130",
+  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9474/STIPTV-4K.apk",
   "apk_url_backup": "https://dl.stiptv.xyz/STIPTV_UPDATE/STIPTV-4K.apk",
-  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-4K-9473-aa801d673ccf41d8.apk",
-  "apk_sha256": "aa801d673ccf41d82bf6068e45c1bfbc33677d43054163da05ffabbc382189fe",
-  "apk_size": 86290278,
+  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-4K-9474-82938d59b5b5b629.apk",
+  "apk_sha256": "82938d59b5b5b6299753c2f7e02fc2b3f7f5445b9ff3ecae9cb88ea2a6b243e8",
+  "apk_size": 86294374,
   "signer_sha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
   "min_sdk": 21,
-  "release_notes": "Update reliability and permanent Downloader links (auto-recovery from interrupted installs, VPN disconnect before install, low-storage cache cleanup, smoother post-install update permission setup) and Live TV stability overhaul (preserved High/Medium/Low buffer profiles, seamless single-connection TS reconnect, faster stall and PTS-desync recovery, 12s HTTP read timeout)."
+  "release_notes": "\u2022 Smoother Live TV: Upgraded buffering engine with faster channel recovery and fewer interruptions.\n\u2022 Enhanced Movies & Series: Faster browsing, richer details, and cleaner playback controls.\n\u2022 Live TV Recording: Record your favorite channels live or schedule upcoming shows anytime.\n\u2022 Special Sports Events: Curated live sports events added automatically on major match days.\n\u2022 Messages & Easy Renewal: Receive important updates in-app and request membership renewal right before expiry."
 }
