@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "enabled": true,
+  "enabled": false,
   "release_id": "9473-043676d5e53c6d676722db31a38786b55f1816fc8d5e04bfcaff1e90827148e0",
   "package_name": "apphosts.ibo.stiptvplus",
   "latest_version_code": 9473,
