@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "enabled": false,
-  "release_id": "9517-2264f28ad7cf45b84b97c4ebc0a5454b0575ea3dae95ae88ce0448081a9198b2",
+  "release_id": "9518-982314cd97f10fadf8fdb4d4e996022bd49151f15f299dfc6cb1e28498d0de51",
   "package_name": "apphosts.ibo.stiptvplus",
-  "latest_version_code": 9517,
+  "latest_version_code": 9518,
   "latest_version_name": "130",
-  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9517/STIPTV-Plus.apk",
+  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9518/STIPTV-Plus.apk",
   "apk_url_backup": "https://dl.stiptv.xyz/STIPTV_UPDATE/STIPTV-Plus.apk",
-  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-Plus-9517-2264f28ad7cf45b8.apk",
-  "apk_sha256": "2264f28ad7cf45b84b97c4ebc0a5454b0575ea3dae95ae88ce0448081a9198b2",
-  "apk_size": 84639663,
+  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-Plus-9518-982314cd97f10fad.apk",
+  "apk_sha256": "982314cd97f10fadf8fdb4d4e996022bd49151f15f299dfc6cb1e28498d0de51",
+  "apk_size": 84643759,
   "signer_sha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
   "min_sdk": 21,
-  "release_notes": "\u2022 Smoother Live TV: Upgraded buffering engine, faster channel recovery, and refined cinematic stream-status screen.\n\u2022 Enhanced Movies & Series: Faster series episode loading, improved subtitle search (OpenSubtitles-first with automatic fallback), and smarter Auto Sync.\n\u2022 Live TV Recording & TV Box Compatibility: Unified TV-mode detection for Android TV boxes plus cleaner playback controls.\n\u2022 Sports Replay & Easy Renewal: Improved Sports Replay layout, in-app updates, and renewal requests."
+  "release_notes": "\u2022 Smoother Live TV: Upgraded buffering engine, faster channel recovery, subtle loading status pill, and 6s offline detection.\n\u2022 Enhanced Movies & Series: Faster series episode loading, improved subtitle search (OpenSubtitles-first with automatic fallback), and smarter Auto Sync.\n\u2022 Live TV Recording & TV Box Compatibility: Unified TV-mode detection for Android TV boxes plus cleaner playback controls.\n\u2022 Sports Replay & Easy Renewal: Improved Sports Replay layout, in-app updates, and renewal requests."
 }
