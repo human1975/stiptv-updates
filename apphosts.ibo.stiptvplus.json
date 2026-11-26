@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "enabled": false,
-  "release_id": "9527-a79fff756b5a3d3fddc919d472390892517948cea292fc9bf4aee8fb18ad4392",
+  "release_id": "9534-44d55ed3be57c9b21a6617a94cbe586df7f1f2da5b2fc50735de4aad67db6450",
   "package_name": "apphosts.ibo.stiptvplus",
-  "latest_version_code": 9527,
-  "latest_version_name": "130",
-  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9527/STIPTV-Plus.apk",
+  "latest_version_code": 9534,
+  "latest_version_name": "132",
+  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9534/STIPTV-Plus.apk",
   "apk_url_backup": "https://dl.stiptv.xyz/STIPTV_UPDATE/STIPTV-Plus.apk",
-  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-Plus-9527-a79fff756b5a3d3f.apk",
-  "apk_sha256": "a79fff756b5a3d3fddc919d472390892517948cea292fc9bf4aee8fb18ad4392",
-  "apk_size": 84709604,
+  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-Plus-9534-44d55ed3be57c9b2.apk",
+  "apk_sha256": "44d55ed3be57c9b21a6617a94cbe586df7f1f2da5b2fc50735de4aad67db6450",
+  "apk_size": 84721892,
   "signer_sha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
   "min_sdk": 21,
-  "release_notes": ""
+  "release_notes": "- Movie and Series descriptions and episodes now match your selected app language.\n- Improved Live TV recording reliability with storage checks, stall guards, and error alerts.\n- Live TV resolution indicator now displays actual stream quality accurately.\n- Enhanced TV remote OK/Enter support, auto TV mode, and D-pad keyboard for Android boxes.\n- Locked modern Search across Home, Live TV, Movies, and Series."
 }
