@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "enabled": false,
-  "release_id": "9543-313ad181f28f35de654674dc873d6aa36741ed195b49639bb4cfd3d2e03a6365",
+  "release_id": "9545-ce1a0325b65082237a375890ac18a60732da9c345477d80f6e967b546128c81b",
   "package_name": "apphosts.ibo.stiptvplus",
-  "latest_version_code": 9543,
+  "latest_version_code": 9545,
   "latest_version_name": "132",
-  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9543/STIPTV-Plus.apk",
+  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9545/STIPTV-Plus.apk",
   "apk_url_backup": "https://dl.stiptv.xyz/STIPTV_UPDATE/STIPTV-Plus.apk",
-  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-Plus-9543-313ad181f28f35de.apk",
-  "apk_sha256": "313ad181f28f35de654674dc873d6aa36741ed195b49639bb4cfd3d2e03a6365",
+  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-Plus-9545-ce1a0325b6508223.apk",
+  "apk_sha256": "ce1a0325b65082237a375890ac18a60732da9c345477d80f6e967b546128c81b",
   "apk_size": 84754660,
   "signer_sha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
   "min_sdk": 21,
-  "release_notes": "Build 9543 (v132): zero-lag 0ms TV zap banner (instant cache/title badge sync, GPU-cached cloud), bottom-up fullscreen entry -> right exit, left -> right zap, and 4s loading-pill threshold."
+  "release_notes": "Build 9545 (v132): early real-format badge delivery via onVideoInputFormatChanged for faster Mi Box & Google TV badges (zero guessing, zero channel-load overhead)."
 }
