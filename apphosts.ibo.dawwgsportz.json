@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "enabled": false,
-  "release_id": "9534-9a370c6f5a108f40df03a12c405444cf5cda1bb8f1735a824eec99c4ddb81e56",
+  "release_id": "9543-8e86bd1aa7d267290b52d88cb86f80a4fdfcb28e6e20628b2311506de5be1f31",
   "package_name": "apphosts.ibo.dawwgsportz",
-  "latest_version_code": 9534,
+  "latest_version_code": 9543,
   "latest_version_name": "132",
-  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9534/STIPTV-4K.apk",
+  "apk_url": "https://github.com/human1975/stiptv-updates/releases/download/v9543/STIPTV-4K.apk",
   "apk_url_backup": "https://dl.stiptv.xyz/STIPTV_UPDATE/STIPTV-4K.apk",
-  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-4K-9534-9a370c6f5a108f40.apk",
-  "apk_sha256": "9a370c6f5a108f40df03a12c405444cf5cda1bb8f1735a824eec99c4ddb81e56",
-  "apk_size": 86253796,
+  "apk_url_fallback": "https://stiptv.xyz/STIPTV/apk/STIPTV-4K-9543-8e86bd1aa7d26729.apk",
+  "apk_sha256": "8e86bd1aa7d267290b52d88cb86f80a4fdfcb28e6e20628b2311506de5be1f31",
+  "apk_size": 86282468,
   "signer_sha256": "a40da80a59d170caa950cf15c18c454d47a39b26989d8b640ecd745ba71bf5dc",
   "min_sdk": 21,
-  "release_notes": "- Movie and Series descriptions and episodes now match your selected app language.\n- Improved Live TV recording reliability with storage checks, stall guards, and error alerts.\n- Live TV resolution indicator now displays actual stream quality accurately.\n- Enhanced TV remote OK/Enter support, auto TV mode, and D-pad keyboard for Android boxes.\n- Locked modern Search across Home, Live TV, Movies, and Series."
+  "release_notes": "Build 9543 (v132): zero-lag 0ms TV zap banner (instant cache/title badge sync, GPU-cached cloud), bottom-up fullscreen entry -> right exit, left -> right zap, and 4s loading-pill threshold."
 }
